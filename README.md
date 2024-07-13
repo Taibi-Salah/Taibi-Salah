@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Taibi Salah</h1>
 
-<h3 align="center">🎓 I am Taibi Salah, a Junior Web Developer (specializing in Python Applications) .
+<h3 align="center">🎓 Web Developer (specializing in Python Applications) .
 <br> I am also Pursuing my Bachelor in Computer Science & Engineering . </br> </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taibi-salah&label=Profile%20views&color=0e75b6&style=flat" alt="taibi-salah" /> </p>

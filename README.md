@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Taibi Salah</h1>
-<p align="center"> <img alt="Awesome GitHub Profile Readme" src="assets/agpr.gif"> </p>
 
 <h3 align="center">🎓 I am Taibi Salah, a Junior Web Developer (specializing in Python Applications) .
 <br> I am also Pursuing my Bachelor in Computer Science & Engineering . </br> </h3>

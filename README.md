@@ -7,7 +7,7 @@
 - 🐍 Expert en **automatisation Python et scraping de données**
 - 🌐 Développeur **Full Stack** avec une préférence pour **Next.js** et **FastAPI**
 - 🐳 Maîtrise avancée de **Docker** pour le déploiement et la conteneurisation
-- 🧠 Passionné par la **résolution de problèmes algorithmiques**
+- 🧠 Passionné par la **résolution de problèmes**
 - 🎓 Actuellement en Bachelor en Informatique & Ingénierie
 
 ### Mes domaines d'expertise :

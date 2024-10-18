@@ -21,7 +21,7 @@
 
 ### Projets récents :
 
-- 🌐 Développement d'une **plateforme e-commerce** avec Next.js et FastAPI
+- 🌐 Développement d'une **plateforme e-commerce**
 - 🔍 Création d'un **outil de surveillance des prix** automatisé
 - 📊 Mise en place d'un **dashboard d'analyse de données** en temps réel
 - 🐳 Conteneurisation d'une **architecture microservices** avec Docker

@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taibi-salah&label=Vues%20du%20profil&color=0e75b6&style=flat" alt="taibi-salah" /> </p>
 
 - 🐍 Expert en **automatisation Python et scraping de données**
-- 🌐 Développeur **Full Stack** avec une préférence pour **Next.js** et **FastAPI**
+- 🌐 Développeur **Full Stack**
 - 🐳 Maîtrise avancée de **Docker** pour le déploiement et la conteneurisation
 - 🧠 Passionné par la **résolution de problèmes**
 - 🎓 Actuellement en Bachelor en Informatique & Ingénierie
